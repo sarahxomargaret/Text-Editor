@@ -9,7 +9,7 @@ This is a PWA application that needs a manifest file and a service worker to off
 This application requires Node.js. To install type in "npm install" into the terminal.
 
 ## Usage
-
+https://text-editor23-15d9ea96d4d1.herokuapp.com/
 
 ## License
 MIT License
